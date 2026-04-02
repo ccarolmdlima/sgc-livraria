@@ -1,1 +1,1 @@
-# ccarolmdlima-sgc-livraria
+# Sistema de Gestão Comercial para Pequenos Negócios (SGC): Livraria
